@@ -28,3 +28,6 @@ benchmarks/graphs
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+## avoid dotenv file
+.env
